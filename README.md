@@ -20,7 +20,6 @@ Save the file as a .vbs extension (vb srcipt).
 
 Then click the file and there you go a surprise letter for your GF or Wife/Husband.
 
-
+<br><br>
 [![](https://img.shields.io/badge/Gmail-carlandrewcastanas55@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Carl%20Andrew%20Casta%C3%B1as-blue)](https://www.linkedin.com/in/carlcastanas/)
-<br>
-[Visitor Count](https://profile-counter.glitch.me/{carlcastanas}/count.svg)
+
