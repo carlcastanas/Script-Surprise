@@ -1,4 +1,4 @@
-# Script-Surprise
+# Surprise Script
 
 ## Step 1
 
