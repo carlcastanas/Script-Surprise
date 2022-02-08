@@ -20,9 +20,4 @@ Save the file as a .vbs extension (vb srcipt).
 
 Then click the file and there you go a surprise letter for your GF or Wife/Husband.
 
-[project]
-Copyright (C) [02/08/2022] [Carl Andrew Castañas]
-[PRODUCT_NAME]
-Copyright [yyyy-yyyy] [OWNER]
 
-This product includes software developed at [OWNER]
